@@ -1,6 +1,6 @@
 <?php
-/**
- * Auto generated from descriptor.proto at 2019-01-07 11:34:00
+/!*
+***Auto generated from descriptor.proto at 2019-01-07 11:34:00
  *
  * google.protobuf package
  */
@@ -288,4 +288,4 @@ class MessageOptions extends \ProtobufMessage
         return $this->count(self::UNINTERPRETED_OPTION);
     }
 }
-}
+} 
